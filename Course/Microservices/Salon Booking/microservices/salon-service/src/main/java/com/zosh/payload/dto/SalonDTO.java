@@ -1,6 +1,4 @@
 package com.zosh.payload.dto;
-
-import jakarta.persistence.*;
 import lombok.Data;
 
 import java.time.LocalTime;

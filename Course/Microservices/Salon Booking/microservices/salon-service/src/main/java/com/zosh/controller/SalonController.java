@@ -6,12 +6,10 @@ import com.zosh.payload.dto.SalonDTO;
 import com.zosh.payload.dto.UserDTO;
 import com.zosh.service.SalonService;
 import lombok.RequiredArgsConstructor;
-import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/salons")

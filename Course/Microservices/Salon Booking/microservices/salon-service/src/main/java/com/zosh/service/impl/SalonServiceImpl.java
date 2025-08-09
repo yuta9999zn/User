@@ -6,7 +6,7 @@ import com.zosh.payload.dto.UserDTO;
 import com.zosh.repository.SalonRepository;
 import com.zosh.service.SalonService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.stereotype.Service;
 
 import java.util.List;

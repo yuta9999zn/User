@@ -1,6 +1,5 @@
 package com.zosh.payload.dto;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
